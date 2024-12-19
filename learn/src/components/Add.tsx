@@ -5,7 +5,7 @@ const Add = () => {
     }
   return (
     <div>
-      hiii{addNumbers(1,2)}
+      hiii{addNumbers(2,2)}
     </div>
   )
 }
